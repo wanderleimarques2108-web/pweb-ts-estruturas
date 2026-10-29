@@ -13,4 +13,4 @@ Disciplina: Programação Web
 
 ## Site publicado
 
-https://github.com/wanderleimarques2108-web/arranchamento-eb
+https://github.com/wanderleimarques2108-web/pweb-ts-estruturas
