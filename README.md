@@ -1,6 +1,6 @@
 # Atividade: Estruturas em TypeScript
 
-Aluno(a): Seu Nome Completo
+Aluno(a): WANDERLEI MARQUES FILHO
 Disciplina: Programação Web
 
 ## Exercícios
@@ -13,4 +13,4 @@ Disciplina: Programação Web
 
 ## Site publicado
 
-https://SEU-USUARIO.github.io/pweb-ts-estruturas/
+https://github.com/wanderleimarques2108-web/arranchamento-eb
