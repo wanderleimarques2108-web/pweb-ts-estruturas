@@ -13,4 +13,4 @@ Disciplina: Programação Web
 
 ## Site publicado
 
-https://github.com/wanderleimarques2108-web/pweb-ts-estruturas
+https://wanderleimarques2108-web.github.io/pweb-ts-estruturas
